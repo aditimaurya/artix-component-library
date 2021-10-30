@@ -5,33 +5,33 @@
 **Artix-component-libraries** are **open source**, **interactive building blocks** for creating a user interface. Browse all components or select a specific platform. It has ready made UI Components. They can arrange different UI Components in many different ways to achieve unique effects.
 
 ## UI Components are: 
-- Accordion
-- AppBar
-- Avatar
-- Backdrop
-- Badge
-- Breadcrumbs
-- Button
-- ButtonGroup
-- Card
-- CheckBox
-- CheckboxTransferList
-- Chip
-- DateTimePicker
-- Dialog
-- FloatingActionButton
-- List
-- Menu
-- Paper
-- Progress
-- RadioButton
-- Rage
-- Select
-- SnackBar
-- Stepper
-- Switch
-- TextField
-- TransferList
+- Accordion (Accordion.js ; Accordion.md ; Accordion.style.tsx; Accordion.tsx) 
+- AppBar (AppBar.js ; AppBar.md ; AppBar.tsx)
+- Avatar ( Avatar.js ; Avatar.md)
+- Backdrop ( Backdrop.js ; Backdrop.md ; Backdrop.tsx)
+- Badge (Badge.js ; Badge.md ; Badge.tsx)
+- Breadcrumbs (Breadcrumbs.js ; Breadcrumbs.md)
+- Button (Button.js ; Button.md ; Button.tsx)
+- ButtonGroup (ButtonGroup.js ; ButtonGroup.md)
+- Card (Card.js ; Card.md)
+- CheckBox (CheckBox.js ; CheckBox.md ; CheckBox.tsx)
+- CheckboxTransferList ( CheckboxTransferList.js)
+- Chip ( Chip.js ; Chip.md)
+- DateTimePicker ( DateTimePicker.js ; DateTimePicker.md)
+- Dialog (Dialog.js ; Dialog.md)
+- FloatingActionButton (FloatingActionButton.js ; FloatingActionButton.md)
+- List (List.js ; List.md)
+- Menu (Menu.js ; Menu.md)
+- Paper (Paper.js ; Paper.md)
+- Progress (Progress.js ; Progress.md)
+- RadioButton (RadioButton.js ; RadioButton.md)
+- Rage (Range.js ; Range.md)
+- Select (Select.js ; Select.md)
+- SnackBar (SnackBar.js ; SnackBar.md)
+- Stepper (Stepper.js ; Stepper.md)
+- Switch (Switch.js ; Switch.md)
+- TextField (TextField.js ; TextField.md)
+- TransferList (TransferList.js ; TransferList.md)
 
 > ## Installation
 
